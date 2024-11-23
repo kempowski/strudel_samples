@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/kempowski/strudel_samples/",
+  "_base": "https://raw.githubusercontent.com/kempowski/strudel_samples/refs/heads/master/strudel.json",
   "atem": "Atem/Atem.wav"
 }
 
